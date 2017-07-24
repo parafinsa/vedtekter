@@ -1,1 +1,3 @@
 # vedtekter
+
+Repo for vedtekter
